@@ -103,33 +103,26 @@ Plaintext
     ├── login.html
     ├── profile.html
     └── signup.html
-#SCREENSHOTS
-##1.Login: It's the First Pagw
-![Login Page]<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/bf571f93-e7c0-43aa-8228-7ed193733595" />
 
-###2.Signup:
-![Login Page]<img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/7e8f6742-36f8-489e-b923-bfe9514ea42e" />
+## Screenshots
 
-###3.Log_now: after signing up you can log in
-![Login Page]<img width="1907" height="970" alt="login_now" src="https://github.com/user-attachments/assets/e9d0f68c-5829-44ee-a1c3-3d219be17adf" />
+### 1. Login Page
+![Login Page](https://github.com/user-attachments/assets/bf571f93-e7c0-43aa-8228-7ed193733595)
 
-##4.Home/Index Page: Where students Records are kept.
-![Login Page]<img width="1917" height="967" alt="index" src="https://github.com/user-attachments/assets/99de60f9-fec5-41b6-ab40-45ed5aa01113" />
+### 2. Signup Page
+![Signup Page](https://github.com/user-attachments/assets/7e8f6742-36f8-489e-b923-bfe9514ea42e)
 
-##5.Add Page: Add a new student to the record:
-![Login Page]<img width="1915" height="982" alt="add" src="https://github.com/user-attachments/assets/bad67184-335a-4904-9c8c-6218fb55de8d" />
+### 3. Dashboard / Home
+![Dashboard](https://github.com/user-attachments/assets/99de60f9-fec5-41b6-ab40-45ed5aa01113)
 
-##6.Indec/Home Page: After adding, a new record is displayed here
-<img width="1915" height="977" alt="after_add" src="https://github.com/user-attachments/assets/640bf2b5-fb3a-472d-86a2-360953bf60fa" />
+### 4. Add Student Record
+![Add Student](https://github.com/user-attachments/assets/bad67184-335a-4904-9c8c-6218fb55de8d)
 
-##7.Edit Page: To make changes to the records stored.
-![Login Page]<img width="1912" height="967" alt="edit" src="https://github.com/user-attachments/assets/0e9a1260-f47f-417a-9ffa-6ab77f113186" />
+### 5. Edit Student Record
+![Edit Student](https://github.com/user-attachments/assets/0e9a1260-f47f-417a-9ffa-6ab77f113186)
 
-##8.Index/Home Page: to check the updated record
-![Login Page]<img width="1912" height="976" alt="after_edit" src="https://github.com/user-attachments/assets/3c1eafc9-45ce-4c90-a5f0-48f2158a9366" />
-
-##9.Profile Page: To see the admin information
-![Login Page]<img width="1913" height="962" alt="profile" src="https://github.com/user-attachments/assets/2ca184a2-f98c-4dae-af35-0009cbfbe8fc" />
+### 6. Admin Profile
+![Admin Profile](https://github.com/user-attachments/assets/2ca184a2-f98c-4dae-af35-0009cbfbe8fc)
 
 
 
