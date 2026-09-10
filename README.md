@@ -107,7 +107,7 @@ Plaintext
 ##1.Login: It's the First Pagw
 ![Login Page]<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/bf571f93-e7c0-43aa-8228-7ed193733595" />
 
-##2.Signup:
+###2.Signup:
 ![Login Page]<img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/7e8f6742-36f8-489e-b923-bfe9514ea42e" />
 
 ###3.Log_now: after signing up you can log in
