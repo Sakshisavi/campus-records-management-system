@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block content %}
+<
+<head>
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='cont&login_box.css') }}">
+</head>
+
+
+<div class="container">
+    <div class ="login-box">
+       <div class="card p-4 md-6 mx-auto">
+           <h4 class="mb-3">
+               <i class = "fa fa-user"></i> Login
+          </h4>
+
+          <form action="/login" method ="POST">
+          <input type ="text" name="admin_id" class="form-control mb-3" placeholder="Enter Admin_id">
+          <input type ="password" name="password" class="form-control mb-3" placeholder="Enter Password">
+    
+          <button class="btn btn-success w-100">
+          <i class="fa fa-sign-in"></i> Login
+         </button>
+    </div>
+</div>    
+    </form>
+    {% endblock %}
+

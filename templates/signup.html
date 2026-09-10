@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+<h2>SIGNUP PAGE</h2>
+{% block content %}
+<div class="card p-4 md-6 mx-auto">
+    <h4 class="mb-3">
+        <i class = "fa fa-user"></i> Signup
+    </h4>
+
+    <form action="/signup" method ="POST">
+        <input type ="text" name="name" class="form-control mb-3" placeholder="Enter Name">
+        <input type ="text" name="dept" class="form-control mb-3" placeholder="Enter Department">
+        <input type ="email" name="email" class="form-control mb-3" placeholder="Enter Email">
+        <input type ="text" name="password" class="form-control mb-3" placeholder="Enter Password">
+        
+    
+        <button class="btn btn-success w-100">
+        <i class="fa fa-sign-in"></i> Signup
+        </button>
+    
+    </form>
+
+    
+
+{% endblock %}

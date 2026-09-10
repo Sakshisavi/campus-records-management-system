@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card p-4">
+  <div class="d-flex justify-content-between mb-3">
+       <h4>
+        <i class ="fa fa-users"></i> Student Management
+       </h4>
+       <a href="/add" class="btn btn-primary">
+        <i class="fa fa-plus"></i> Add Student</a>
+  </div>
+  <table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>S.No</th>   <!-- Consecutive numbering -->
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Course</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        {% for students in students %}
+        <tr>
+            <td>{{ loop.index }}</td>     <!-- 1, 2, 3… -->
+            <td>{{students[0]}}</td>
+            <td>{{students[1]}}</td>
+            <td>{{students[2]}}</td>
+            <td>{{students[3]}}</td>   
+            <td>
+                <a href="/edit/{{ students[0] }}">Edit</a>
+                <i class="fa fa-pencil"></i>
+                <a href="/delete/{{ students[0] }}">Delete</a>
+                <i class="fa fa-trash"></i>
+                
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

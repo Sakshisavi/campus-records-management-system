@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <div class="text-center">
+            <!-- Big profile icon -->
+            <i class="fa fa-user-circle fa-7x mb-3 text-primary"></i>
+            <h2 class="mb-3">{{ admin[1] }}</h2> <!-- Name -->
+        </div>
+        <div class="card-body">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"><strong>Admin ID:</strong> {{ admin[0] }}</li>
+                <li class="list-group-item"><strong>Department:</strong> {{ admin[2] }}</li>
+                <li class="list-group-item"><strong>Email:</strong> {{ admin[3] }}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+{% endblock %}
