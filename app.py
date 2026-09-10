@@ -88,9 +88,7 @@ def delete_student(id):
     mysql.connection.commit()
     cur.close()
     return redirect(url_for('index'))
-def Search():
-    pass
-def profile():
+def Search():#Future feature that i will add Later
     pass
 if __name__ == "__main__":
     app.run(debug=True)
