@@ -105,25 +105,29 @@ Plaintext
     └── signup.html
 
 ## Screenshots
+## Screenshots
+
+![Application Screenshots](./screenshots/screenshots.png)
+
+## Screenshots
 
 ### 1. Login Page
 ![Login Page](./screenshots/login.png)
 
 ### 2. Signup Page
-![Signup Page](/screenshots/signup.png)
+![Signup Page](./screenshots/signup.png)
 
 ### 3. Dashboard / Home
 ![Dashboard](./screenshots/index.png)
 
 ### 4. Add Page
-![Login Page](./screenshots/add.png)
+![Add Page](./screenshots/add.png)
 
 ### 5. Edit Page
-![Login Page](./screenshots/edit.png)
+![Edit Page](./screenshots/edit.png)
 
 ### 6. Profile Page
-![Signup Page](./screenshots/profile.png)
-
+![Profile Page](./screenshots/profile.png)
 
 
 
