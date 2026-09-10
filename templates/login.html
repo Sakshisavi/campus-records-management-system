@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 {% block content %}
-<
+
 <head>
     
     <link rel="stylesheet" href="{{ url_for('static', filename='cont&login_box.css') }}">
@@ -20,9 +20,25 @@
     
           <button class="btn btn-success w-100">
           <i class="fa fa-sign-in"></i> Login
-         </button>
+         
+        </button>
+    
+     
+    
+    
     </div>
+    <!-- Flash Messages BELOW -->
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <div class="alert alert-info mt-3">
+          {% for message in messages %}
+            <p class="mb-0">{{ message }}</p>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
 </div>    
-    </form>
+</form>
     {% endblock %}
+    
 

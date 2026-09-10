@@ -8,7 +8,6 @@ from MySQLdb import IntegrityError
 auth_bp = Blueprint("auth", __name__)
 
 
-#DataBase Connection
 
 #config
 
