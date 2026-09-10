@@ -1,6 +1,5 @@
 from flask import Flask,render_template,request,redirect,url_for,flash,session,current_app
 from werkzeug.security import generate_password_hash, check_password_hash
-from config import Config
 from flask_mysqldb import MySQL
 from flask import Blueprint
 from MySQLdb import IntegrityError

@@ -1,0 +1,6 @@
+Flask 
+Werkzeug Security 
+Flask-MySQLdb 
+Flask Blueprint
+MySQLdb 
+Jinja2 (templating) 
