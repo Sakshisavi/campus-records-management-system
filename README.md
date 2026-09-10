@@ -105,29 +105,14 @@ Plaintext
     └── signup.html
 
 ## Screenshots
-## Screenshots
+<img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/a88fe2fd-4ac1-48b5-8430-5683e99ea80f" />
+<img width="1913" height="962" alt="profile" src="https://github.com/user-attachments/assets/cb4e57d4-99fd-4a27-bfbc-9b5ae3265db1" />
+<img width="1906" height="963" alt="logout" src="https://github.com/user-attachments/assets/60e47c76-9800-40e3-a2cf-532ec1521c23" />
+<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/bb71306b-921b-490d-8d3a-433f41b76c9c" />
+<img width="1917" height="967" alt="index" src="https://github.com/user-attachments/assets/1ffae746-036d-492d-b2d5-d9ce3141d692" />
+<img width="1912" height="967" alt="edit" src="https://github.com/user-attachments/assets/514d1ef4-564e-499d-8d16-0023aef561c2" />
+<img width="1915" height="982" alt="add" src="https://github.com/user-attachments/assets/da83f382-e1d8-4c43-ba6d-a641cb1873df" />
 
-![Application Screenshots](./screenshots/screenshots.png)
-
-## Screenshots
-
-### 1. Login Page
-![Login Page](./screenshots/login.png)
-
-### 2. Signup Page
-![Signup Page](./screenshots/signup.png)
-
-### 3. Dashboard / Home
-![Dashboard](./screenshots/index.png)
-
-### 4. Add Page
-![Add Page](./screenshots/add.png)
-
-### 5. Edit Page
-![Edit Page](./screenshots/edit.png)
-
-### 6. Profile Page
-![Profile Page](./screenshots/profile.png)
 
 
 
