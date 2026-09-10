@@ -110,7 +110,7 @@ Plaintext
 ![Login Page](./screenshots/login.png)
 
 ### 2. Signup Page
-![Signup Page](./screenshots/signup.png)
+![Signup Page](/screenshots/signup.png)
 
 ### 3. Dashboard / Home
 ![Dashboard](./screenshots/index.png)
