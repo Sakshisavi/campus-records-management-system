@@ -110,7 +110,7 @@ Plaintext
 ##2.Signup:
 ![Login Page]<img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/7e8f6742-36f8-489e-b923-bfe9514ea42e" />
 
-##3.Log_now: after signing up you can log in
+###3.Log_now: after signing up you can log in
 ![Login Page]<img width="1907" height="970" alt="login_now" src="https://github.com/user-attachments/assets/e9d0f68c-5829-44ee-a1c3-3d219be17adf" />
 
 ##4.Home/Index Page: Where students Records are kept.
