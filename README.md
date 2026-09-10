@@ -1,4 +1,4 @@
-# Student Management System
+# Campus Records Management System
 
 A web application designed to manage student records and administrative authentication. Built with Python, Flask, and MySQL, this project demonstrates structured MVC architecture, secure user authentication with password hashing, session management, and CRUD operations.
 
