@@ -107,24 +107,23 @@ Plaintext
 ## Screenshots
 
 ### 1. Login Page
-<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/c313c3fa-f5b6-4873-b9cc-3fe575f1afdb" />
-
-![Login Page](https://github.com/user-attachments/assets/ef3cf100-02f7-401d-ad36-3cecba775704)
+![Login Page](./screenshots/login.png)
 
 ### 2. Signup Page
-![Signup Page](https://github.com/user-attachments/assets/7e8f6742-36f8-489e-b923-bfe9514ea42e)
+![Signup Page](./screenshots/signup.png)
 
 ### 3. Dashboard / Home
-![Dashboard](https://github.com/user-attachments/assets/99de60f9-fec5-41b6-ab40-45ed5aa01113)
+![Dashboard](./screenshots/index.png)
 
-### 4. Add Student Record
-![Add Student](https://github.com/user-attachments/assets/bad67184-335a-4904-9c8c-6218fb55de8d)
+### 4. Add Page
+![Login Page](./screenshots/add.png)
 
-### 5. Edit Student Record
-![Edit Student](https://github.com/user-attachments/assets/0e9a1260-f47f-417a-9ffa-6ab77f113186)
+### 5. Edit Page
+![Login Page](./screenshots/edit.png)
 
-### 6. Admin Profile
-![Admin Profile](https://github.com/user-attachments/assets/2ca184a2-f98c-4dae-af35-0009cbfbe8fc)
+### 6. Profile Page
+![Signup Page](./screenshots/profile.png)
+
 
 
 
