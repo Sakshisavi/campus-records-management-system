@@ -51,6 +51,7 @@ CREATE TABLE admins_record (
     Password VARCHAR(255) NOT NULL
 );
 
+
 -- Students Table
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -103,10 +104,13 @@ Plaintext
     ├── login.html
     ├── profile.html
     └── signup.html
-);
+
+```
+---
 
 
-## 📸 Screenshots
+
+**📸 Screenshots**
 
 ### Login Page
 ![Login Page](screenshots/login.png)
