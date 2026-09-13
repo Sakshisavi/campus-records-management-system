@@ -107,7 +107,7 @@ Plaintext
 ## Screenshots
 
 ### 1. Signup Page
-![Signup Page](https://github.com/user-attachments/assets/a88fe2fd-4ac1-4e78-9e12-8e1329381e4b)
+<img width="1915" height="982" alt="add" src="https://github.com/user-attachments/assets/ab23a0f3-d770-42bc-abbf-5301bd6dd956" />
 
 ### 2. Login Page
 ![Login Page](https://github.com/user-attachments/assets/bb71306b-921b-4903-a1df-b8efd824d773)
