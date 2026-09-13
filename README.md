@@ -107,25 +107,26 @@ Plaintext
 ## Screenshots
 
 ### 1. Signup Page
-<img width="1915" height="982" alt="add" src="https://github.com/user-attachments/assets/ab23a0f3-d770-42bc-abbf-5301bd6dd956" />
+<img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/198f3286-d9f4-4cdb-b92d-abbf98addd41" />
+
 
 ### 2. Login Page
-![Login Page](https://github.com/user-attachments/assets/bb71306b-921b-4903-a1df-b8efd824d773)
+<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/faba0253-cccf-4711-9e0f-aeeabf1278c8" />
 
 ### 3. Dashboard
-![Dashboard](https://github.com/user-attachments/assets/1ffae746-036d-4929-a1b7-e21a221f181f)
+<img width="1917" height="967" alt="index" src="https://github.com/user-attachments/assets/e265e82a-38bd-4008-863a-fe386c3799b2" />
 
 ### 4. Add Record
-![Add Record](https://github.com/user-attachments/assets/da83f382-e1d8-4c43-85f7-640a3ddb4a7d)
+<img width="1915" height="982" alt="add" src="https://github.com/user-attachments/assets/b8fd5588-1a93-4e4c-95ef-01a0cf35f48b" />
 
 ### 5. Edit Record
-![Edit Record](https://github.com/user-attachments/assets/514d1ef4-564e-499c-b173-95cf8951dbec)
+<img width="1912" height="967" alt="edit" src="https://github.com/user-attachments/assets/9aab5e5d-cc3c-44e7-b262-e4c33206fdfe" />
 
 ### 6. Profile Page
-![Profile Page](https://github.com/user-attachments/assets/cb4e57d4-99fd-42ee-8959-1dd94e2ea407)
+<img width="1913" height="962" alt="profile" src="https://github.com/user-attachments/assets/beb0ea31-c070-4263-acf2-839d86aa88a1" />
 
 
-<img width="1905" height="967" alt="login" src="https://github.com/user-attachments/assets/23f55cd9-4e1d-49f4-9b17-1dced2f170c8" />
+
 
 
 
