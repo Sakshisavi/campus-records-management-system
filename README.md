@@ -103,8 +103,17 @@ Plaintext
     ├── login.html
     ├── profile.html
     └── signup.html
+);
 
-## Screenshots
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/index.png)
+
 
 ### 1. Signup Page
 <img width="1902" height="953" alt="signup" src="https://github.com/user-attachments/assets/198f3286-d9f4-4cdb-b92d-abbf98addd41" />
