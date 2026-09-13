@@ -112,19 +112,11 @@ Plaintext
 
 **📸 Screenshots**
 
-### Login Page
-
-
-### Dashboard
-
-
-
 ### 1. Signup Page
 ![Login Page](screenshots/signup.png)
 
-
 ### 2. Login Page
-![Dashboard](screenshots/login.png)
+![Dashboard](screenshots/login_now.png)
 
 ### 3. Dashboard
 ![Dashboard](screenshots/index.png)
